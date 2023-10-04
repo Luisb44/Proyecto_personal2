@@ -1,0 +1,36 @@
+.cont-img {
+    background-color: aliceblue;
+ }
+ 
+ 
+ section{
+ background-color:aquamarine;
+ margin-top: 50px;
+ margin-left: 30px;
+ width: 30%;
+ height: 30%;
+ 
+ 
+ }
+ aside{
+     margin-top: 50px;
+ }
+ footer {
+ background-color:#0072D6 ;
+ margin-top: 30%;
+ margin-right: auto;
+ margin-left: auto;
+ padding: 50px;
+ }
+ .boton{
+     background-color:chartreusef
+ 
+ }
+ a{
+     color: rgb(255, 255, 255);
+ }
+ a:hover {
+     color: #00fff2;
+     cursor: pointer;
+   }
+ 
